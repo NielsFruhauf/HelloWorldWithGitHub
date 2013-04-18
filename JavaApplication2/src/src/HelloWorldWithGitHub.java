@@ -14,6 +14,7 @@ import java.util.logging.Logger;
 /**
  *
  * @author Jonathan et Niels (modification effectu�e depuis le compte de Niels)
+ * Note : Fichier de présentation | projet Groupware
  */
 public class HelloWorldWithGitHub {
 
