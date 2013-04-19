@@ -15,6 +15,8 @@ import java.util.logging.Logger;
  *
  * @author Jonathan et Niels depuis le compte de Niels
  */
+
+// Classe HelloWorldWithGitHub
 public class HelloWorldWithGitHub {
 
     /**
